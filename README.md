@@ -6,7 +6,7 @@ Download the PDF or PowerPoint slide deck for the full visual aid content.
 
 ## References
 
-### Microsoft doucumentation
+### Microsoft documentation
 
 - [Become a Microsoft Certified Professional](https://www.microsoft.com/en-us/learning/microsoft-certified-professional.aspx)
 - [Competency Partners](https://partner.microsoft.com/en-US/membership/competencies)
